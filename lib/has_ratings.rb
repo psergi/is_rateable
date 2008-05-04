@@ -1,4 +1,4 @@
-# RateMe
+# HasRatings
 module Sergi
   module HasRatings #:nodoc:
 
