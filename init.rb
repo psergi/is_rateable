@@ -1,2 +1,2 @@
 # Include hook code here
-require 'has_ratings'
+require 'is_rateable'
